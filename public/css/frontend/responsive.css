@@ -1,0 +1,362 @@
+@media screen and (max-width: 1199px){
+
+	.booking_form .nav__menu {height: 70px;}
+	.share_links a {width: 12%;}
+}
+
+@media screen and (max-width: 1025px){
+
+.login-btn .trav_btn {padding: 10px 5px;min-width: 90px;}
+.site_text h4 {	font-size: 14px;}
+
+.req-btn {max-width: 40%;}
+}
+
+@media screen and (max-width: 991px){
+
+.container-fluid {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.mobile-hide {display: none !important;}
+.mobile-show {display: block;}
+.mobile-menu .btn {
+	color: #fff !important;
+	background: #2172b5;
+	 font-size: 18px;
+	 padding: 4px 12px;
+}
+.btn.focus, .btn:focus {
+	outline: 0;
+	box-shadow: none;
+}
+/*a.logo {
+	 margin: 0; 
+	text-align: left;
+}*/
+.login-btn .navbar-nav li a {
+	color: #000;
+	padding: 8px 12px;
+}
+.mobile-show .trav_btn, .mobile-show .lang-btn {
+	background: transparent;
+	border: 0;
+	text-align: left;
+	width: 100%;
+	border-bottom:1px solid #ececec;
+	color: #2172b5 !important;
+	border-radius: 0;
+}
+.mobile-show .trav_btn, .mobile-show .lang-btn 
+{min-width: 100% !important;padding-left: 12px !important;}
+
+.mobile-show .navbar-nav li .lang-btn{border: 0; color: #fff;}
+
+.mobile-show .trav_btn a{ width: 100%; }
+.login-btn .navbar-nav {
+	display: block;
+	width: 100%;
+	background: #fff;
+	box-shadow: 0px 0 5px #dadada;
+}
+.login-btn .navbar-nav li {
+	width: 100%;
+	font-size: 14px;
+	display: block;
+	margin: 0px auto;
+	background: #fff;
+	float: unset;
+}
+.login-btn .trav_btn,.login-btn .navbar-nav li .lang-btn {
+	padding: 10px 5px;
+	min-width: 200px;
+	margin: 0 auto;
+}
+
+.about-sec img {width: 100px;}
+.quick-link {padding-left: 0;}
+.social_icon a {width: 52px;height: 52px;font-size: 22px;line-height: 48px;}
+.copyright_section {padding-top: 20px;margin-top: 20px;}
+.footer.sec-space {	padding: 10px 0;}
+.contact_section {padding-top: 20px;}
+
+.login-btn .navbar-nav li {	width: auto;padding: 0 1px;font-size: 13px;}
+.login-btn .trav_btn {padding: 8px 5px;	min-width: auto;font-size: 13px;}
+.login-btn .navbar-nav li .lang-btn {padding: 8px 5px;}
+.carousel-item img {height: auto;}
+.booking_section {margin-top: 15px;}
+
+.booking_form .nav__menu {
+	width: 33.33%;
+	font-size: 13px;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+.nav__menu:nth-child(1) {border-top-left-radius: 0;}
+.nav__menu:last-child {	border-bottom-right-radius: 0;
+	border-top-right-radius: 0px;}
+
+.travel_site img {height: 220px;}
+.site_bottom h4 {font-size: 18px;}
+.main-section {margin-top: 30px;}
+
+.booking_form .nav__menu{height: 56px;}
+
+.detail-lg {
+	margin: 15px auto;
+	padding: 0 10px;
+	height: 300px;
+}
+.pattern_img img {height: 80px;}
+.pattern_img h3 {font-size: 20px;}
+.detail-lg {margin: 15px auto;padding: 0 10px;height: 470px;}
+.boarding_effect p {font-size: 13px;margin-bottom: 6px;}
+.user_login {margin-bottom: 0px;font-size: 15px;padding: 5px 15px;}
+
+.agree_msg ul {width: 95%;}
+.form-group.text-right.forget-msg {	margin-bottom: 0;}
+
+.senti-list .input-sec {width: 48%;}
+.login-fbtn, .login-tbtn {max-width: 100%;}
+
+.profile-detail h4 {font-size: 16px;}
+.profile-detail {font-size: 13px;padding: 10px;	margin: 10px auto;}
+
+.req-btn .btn {font-size: 14px;}
+.req-btn {max-width: 50%;}
+
+.badge-icon img {width: 50px;height: 50px;}
+.boarding_effect .user_login {position: unset;margin-bottom: 15px;}
+.profile-img img {width: 150px;height: 150px;}
+.badge-img img {margin-bottom: 0;}
+}
+
+
+@media screen and (max-width: 767px){
+.container-fluid {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+a.logo img {max-width: 100px;}
+
+/*.mobile-menu .dropdown-menu {
+	right: 0px;left: auto;
+}*/
+.mobile-menu .btn {
+	color: #fff !important;
+	background: #2172b5;
+	 font-size: 18px;
+	 padding: 4px 12px;
+}
+.btn.focus, .btn:focus {
+	outline: 0;
+	box-shadow: none;
+}
+/*a.logo {
+	 margin: 0; 
+	text-align: left;
+}*/
+.login-btn .navbar-nav li a {
+	color: #000;
+	padding: 8px 12px;
+}
+.mobile-show .trav_btn, .mobile-show .lang-btn {
+	background: transparent;
+	border: 0;
+	text-align: left;
+	width: 100%;
+	border-bottom:1px solid #ececec;
+	color: #2172b5 !important;
+	border-radius: 0;
+}
+.mobile-show .trav_btn, .mobile-show .lang-btn 
+{min-width: 100% !important;padding-left: 12px !important;}
+
+.mobile-show .navbar-nav li .lang-btn{border: 0; color: #fff;}
+
+.mobile-show .trav_btn a{ width: 100%; }
+
+.quick-link {margin-top: 20px;}
+.copyright_section, .copy_links {text-align: center;}
+.ads_section {
+	margin-top: 0px;
+	width: 100%;
+	display: inline-block;
+	margin: 0 auto;
+	text-align: center;
+}
+.ads_section a {
+	width: 50%;
+	display: inline-block;
+	margin: 0 auto;
+	text-align: center;
+	float: left;
+}
+.ads_section a img {margin-bottom: 15px;}
+
+.form_srch .form_btn {
+	height: 40px;
+	width: 110px;
+	font-size: 14px;
+
+}
+.sidenav a {
+	padding: 12px 8px 12px 22px;
+	font-size: 14px;
+}
+.login-btn .navbar-nav {
+	display: block;
+	width: 100%;
+	background: #fff;
+	box-shadow: 0px 0 5px #dadada;
+}
+.login-btn .navbar-nav li {
+	width: 100%;
+	font-size: 13px;
+	display: block;
+	margin: 0px auto;
+	background: #fff;
+	float: unset;
+}
+.login-btn .trav_btn,.login-btn .navbar-nav li .lang-btn {
+	padding: 10px 5px;
+	min-width: 200px;
+	margin: 0 auto;
+}
+.btn.more_btn {	height: 42px;/*max-width: 25%*/;font-size: 14px;}
+.social_icon a {/*width: 35px;height: 35px;font-size: 18px;line-height: 35px;*/}
+.left_link li {padding: 4px 0;}
+
+.login-form .form-group input, .account-form .form-group input {height: 40px;}
+.login-form .form-group label {font-size: 15px;}
+.login-form .form-group, .account-form .form-group {margin-bottom: 20px;}
+
+.agree_msg input {width: 5%;}
+.agree_msg ul {	width: 93%;margin-top: 8px;}
+.login-fbtn, .login-tbtn {max-width: 40%;margin: 0px auto;}
+.login-tbtn .btn {padding: 5px 10px;}
+
+.checkbox input {height: 10px !important;}
+.checkbox label {font-size: 12px !important;}
+
+.dashboard-section .card-body {	font-size: 13px;}
+.dashboard-section .card-title {font-size: 18px;}
+
+.profile-img {width: 100%;margin: 0 auto;text-align: center;}
+.profile-img img {/*width: 50%*/;margin: -15px auto 0px;}
+.user_dt {text-align: center;}
+.repo_btn a {width: auto;}
+.badge-icon {left: 15%;}
+.badge-icon img {width: 40px;height: 40px;}
+.badge-icon.chagecss img {width: 65px; height: auto;}
+.badge-icon.chagecss {left: 10%;}
+.detail-lg {height: 310px;}
+.badge-img img {margin-bottom: 18px;}
+}
+
+@media screen and (max-width: 575px){
+
+/*a.logo {
+	margin: ;
+	text-align: right;
+	display: block;
+}*/
+.mx-50 {
+	margin: 20px auto;
+}
+.footer.sec-space h3 {font-size: 16px;}
+.use-link h4 {font-size: 15px;}
+
+.carousel-item img {height: auto;}
+.booking_form .nav__menu {	font-size: 12px;height: 52px;}
+
+.site_bottom h4 {font-size: 15px;}
+/*a.logo {margin: 0;	text-align: right;	display: inherit;}*/
+
+.detail-lg {height: auto;}
+.user_login {margin-bottom: 15px;}
+.pd5 {margin-bottom: 20px;}
+
+.login-section.login_option {padding: 30px 0;}
+.login-section.login_option h4 {font-size: 22px;margin: 0 0 20px;}
+
+.login-form {margin: 30px auto;}
+
+.mb-4 {margin-bottom: 15px !important;}
+
+.travel-user li {
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+    margin-bottom: 10px;
+    height: auto;
+    vertical-align: middle;
+}
+.travel-user {
+	display: inline-block;
+	margin: 0 auto 20px;
+	list-style-type: none;
+}
+}
+
+@media screen and (max-width: 480px){
+.container-fluid {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.booking_form .nav__menu {width: 50%;}
+.booking_form {padding: 10px;}
+.form_srch .form_btn {height: 36px;	width: 100px;font-size: 13px;}
+.carousel-item img {height: auto;}
+a.logo img {max-width: 100px;}
+.btn.more_btn {	/*max-width: 45%;*/margin: 0 auto 30px;height: 40px;font-size: 13px;}
+.travel_site {margin-bottom: 20px;}
+
+.login-section.login_option h4 {font-size: 18px;}
+.pattern_img {padding-bottom: 0px;}
+.login-section.login_option {padding: 20px 0;}
+.inner-banner img {height: auto !important;}
+
+.login-form .form-group label {font-size: 14px;}
+.login-form .form-group input, .account-form .form-group input {font-size: 12px;}
+.footer.sec-space p {line-height: 22px;}
+
+.login-fbtn .btn {font-size: 13px;padding: 5px 10px;}
+.contact_section {padding-top: 15px;}
+.copyright_section {padding-top: 15px;}
+.copy_links a, .copyright_section p {font-size: 12px;}
+
+.senti-list .input-sec {width: 100%;}
+.login-form .form-group label, .account-form .form-group label {
+	font-size: 14px;}
+.login-fbtn, .login-tbtn {max-width: 60%;}
+
+.travel-user li {width: 49%;margin: 0 auto 6px;}
+.share_links a {width: 15%;}
+.travel-type {font-size: 13px;}
+.user-detail p, .profile-banner p,.req-btn .btn {font-size: 13px;}
+.share_links a img {height: 28px;}
+.req-btn {max-width: 70%;}
+
+span.menu-icon {font-size: 25px;}
+span.menu-icon img {width: 22px;}
+
+.account-link .nav-tabs .nav-item {
+	width: 33.33%;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+}
+.account-link .nav-tabs .nav-link {font-size: 12px;	padding: .6rem .4rem;}
+.profile-inner {margin-top: -40px;}
+.profile-img img {/*width: 70%;*/}
+
+.badge-icon img {width: 30px;height: 30px;}
+.inner-banner .badge-icon img {width: 65px; }
+.badge-icon {top: 10%;left: 18%;}
+header.driver-header .container-fluid {padding-left: 5px;padding-right: 5px;}
+.mobile-menu .btn {font-size: 18px;padding: 0px 8px;margin-right: 8px;}
+
+.travel-info h4 {margin-bottom: 15px;font-size: 20px;}
+.travel-info p {font-size: 13px;margin-bottom: 10px;}
+}

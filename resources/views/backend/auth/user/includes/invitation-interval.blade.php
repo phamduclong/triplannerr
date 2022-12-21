@@ -1,0 +1,1 @@
+<input type="text" class="dates" name="invitation_interval" value="{{ $user->invitation_interval }}" data-route="{{ route('admin.auth.user.invitation-interval', $user->id) }}">

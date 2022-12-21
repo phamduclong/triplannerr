@@ -1,0 +1,1 @@
+[18-Aug-2022 15:28:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/customer/www/triplannerr.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/triplannerr.com/public_html/public/index.php on line 22

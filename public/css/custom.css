@@ -1,0 +1,14 @@
+.onload{
+    opacity: 0.8;
+    background-color: white;
+    opacity: 0.8;
+    z-index: 999;
+    left: 0;
+    top: 0;
+    display: none;
+}
+
+.onload .spinner-border{
+    display: block;
+    margin: 2em auto;
+}
